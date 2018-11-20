@@ -34,4 +34,4 @@ info:
   build.version: $project.version$
 
 test:
-  myname: wangyitest_update123
+  myname: wangyitest_update123456
