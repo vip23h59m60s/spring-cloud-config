@@ -34,5 +34,5 @@ info:
   build.version: $project.version$
   
   
-myname:
+test.myname:
   zhangsan
