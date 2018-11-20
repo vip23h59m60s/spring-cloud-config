@@ -32,3 +32,6 @@ info:
   company.name: www.phtech.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
+
+test:
+  myname: wangyi
