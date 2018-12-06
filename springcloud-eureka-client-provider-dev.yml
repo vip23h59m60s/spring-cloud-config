@@ -34,4 +34,4 @@ info:
   build.version: $project.version$
 
 test:
-  myname: myNameIsWangyi 
+  myname: myNameIsWangyiSon 
